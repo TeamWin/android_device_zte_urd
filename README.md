@@ -1,4 +1,4 @@
-# android_device_zte_urd
+# TWRP device configuration for ZTE ZMAX PRO
 TWRP for the ZTE ZMAX PRO
 Build using omni 6.0 sources
 
