@@ -2,6 +2,8 @@
 TWRP for the ZTE ZMAX PRO
 Build using omni 6.0 sources
 
+Kernel Source: https://github.com/armandopartida0/android_kernel_zte_urd
+
 The ZTE ZMAX PRO(codenamed _"urd"_) is a mid-range smartphone from ZTE.
 It was released in July,2016.
 
